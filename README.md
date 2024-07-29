@@ -8,7 +8,7 @@
 <img align="right" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>👨‍💻 About Me</h3> 
-<h4><em>A diligent software engineering student at a Turkish university. Highly passionate about technology and striving to become a professional programmer. Committed and hardworking, with a promising future in software engineering. </h4></em>
+<h4>A diligent software engineering student at a Turkish university. Highly passionate about technology and striving to become a professional programmer. Committed and hardworking, with a promising future in software engineering. </h4>
 
 
 	
