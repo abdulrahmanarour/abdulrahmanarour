@@ -9,7 +9,7 @@
 
 <img align="right" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="Coder GIF" width="380" height="280">
 
-<h3>👨‍💻 About Me</h3> 
+<h3>👨‍💻 About Me :</h3> 
 <h4>A diligent software engineering student at a Turkish university. Highly passionate about technology and striving to become a professional programmer. Committed and hardworking, with a promising future in software engineering. </h4>
 
 
@@ -29,7 +29,7 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
- ### 🔗Contact Me
+ ### 🔗 Contact Me :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/abdulrahman-arour-6385b3303/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=0905314534195)
