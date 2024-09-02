@@ -15,7 +15,7 @@
 
 	
 
-<hr style color: red/>
+<hr/>
 
 ### 🛠 Programming Languages and Tools : 
 
